@@ -1,0 +1,10 @@
+com\crm\qa\pages\ContactsPage.class
+com\crm\qa\pages\DealsPage.class
+com\crm\qa\base\TestBase.class
+com\crm\qa\pages\HomePage.class
+com\crm\qa\pages\TasksPage.class
+com\crm\qa\pages\LoginPage.class
+com\crm\qa\pages\SingUpPage.class
+com\crm\qa\utilities\ReadConfig.class
+com\crm\qa\utilities\TestUtils.class
+com\crm\qa\pages\NewContactsPage.class
